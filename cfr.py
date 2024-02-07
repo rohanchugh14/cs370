@@ -9,6 +9,7 @@ def cfr_rock_paper_scissors(num_iterations):
     strategy_sum = {"rock": 0, "paper": 0, "scissors": 0}
     regret_sum = {"rock": 0, "paper": 0, "scissors": 0}
     action_utilities = {"rock": 0, "paper": 0, "scissors": 0}
+    starting_strategy = {"rock": 0.1, "paper": 0.8, "scissors": 0.1}
     
     def get_strategy():
         normalizing_sum = 0
@@ -19,7 +20,7 @@ def cfr_rock_paper_scissors(num_iterations):
             if normalizing_sum > 0:
                 strategy[action] /= normalizing_sum
             else:
-                strategy[action] = 1.0 / len(strategy)
+                strategy[action] = starting_strategy[action]
             strategy_sum[action] += strategy[action]
         return strategy
 
