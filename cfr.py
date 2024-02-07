@@ -30,14 +30,13 @@ def cfr_rock_paper_scissors(num_iterations):
             cumulative_probability += strategy[action]
             if r < cumulative_probability:
                 return action
-        return action  # Fallback, should never reach here due to probability sum
+        return action 
 
     def train(iterations):
         for _ in range(iterations):
-            # Update strategy based on regret sums
+            # Update strategy
             current_strategy = get_strategy()
             
-            # Simulate opponent's action and calculate utility of each action
             opponent_action = get_action(current_strategy)
             for action in action_utilities:
                 if action == opponent_action:
@@ -60,8 +59,10 @@ def cfr_rock_paper_scissors(num_iterations):
     
     # Normalize the accumulated strategy to get the average strategy
     average_strategy = {action: strategy_sum[action] / num_iterations for action in strategy_sum}
+    print(strategy)
+    print(strategy_sum)
+    print(regret_sum)
     return average_strategy
 
-# Example: Run CFR for Rock-Paper-Scissors with 10,000 iterations
 avg = cfr_rock_paper_scissors(10000)
 print([itm for itm in avg.items()])
