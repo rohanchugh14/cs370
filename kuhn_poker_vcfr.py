@@ -1,6 +1,12 @@
 from tabulate import tabulate
 import matplotlib.pyplot as plt
 
+# use CFR+ or CFR
+CFR_PLUS_ENABLED = True
+# CFR_PLUS_ENABLED = False
+
+PRUNING_THRESHOLD = 0.01
+
 # we only have 3 ranks in Kuhn Poker
 RANKS = ['K', 'Q', 'J']
 
@@ -71,6 +77,7 @@ class InfosetActionData:
         self.strategy = initial_strat_value
         self.utility = None
         self.cumulative_gain = initial_strat_value
+
 
 # select opponent possibilities (removing the card we have)
 def get_opponent_possibilities(card):
@@ -192,6 +199,8 @@ def update_utilities_for_infoset_str(infoset_str):
     deciding_player = get_deciding_player(infoset_str)
 
     infoset = infosets[infoset_str]
+    if infoset.likelihood < PRUNING_THRESHOLD and CFR_PLUS_ENABLED:
+        return
     beliefs = infoset.beliefs
 
     # calculate utility for each action
@@ -292,8 +301,11 @@ def calculate_gains():
 
         for action in ACTIONS:
             util_for_action = infoset.actions[action].utility
-            # cap gain at 0
-            gain = max(0, util_for_action - infoset.expected_utility)
+            # cap gain at 0 if CFR+ enabled
+            if CFR_PLUS_ENABLED:
+                gain = max(0, util_for_action - infoset.expected_utility)
+            else:
+                gain = util_for_action - infoset.expected_utility
             total_gain += gain
             
             # multiply gain by likelihood
@@ -320,9 +332,30 @@ infosets: dict[str, InfosetData] = {}
 # sort this based on length. this allows us to traverse from the "top" of the or from the "bottom"
 sorted_infoset_strs: list[str] = []
 
+
+
 if __name__ == "__main__":
     initialize_infosets()
+    CONVERGENCE_THRESHOLD = 0.00001  # Define a suitable threshold for your application
+    CONVERGENCE_ITERATIONS = 1000  # Number of iterations over which the max change must be below the threshold
+    convergence_counter = 0  # Tracks how many consecutive iterations meet the convergence criterion
+    previous_strategies = {infoset_str: {action: infoset.actions[action].strategy for action in ACTIONS} for infoset_str, infoset in infosets.items()}
+    def check_convergence():
+        global convergence_counter
+        max_change = 0
 
+        for infoset_str, infoset in infosets.items():
+            for action, action_data in infoset.actions.items():
+                change = abs(action_data.strategy - previous_strategies[infoset_str][action])
+                max_change = max(max_change, change)
+                previous_strategies[infoset_str][action] = action_data.strategy
+
+        if max_change < CONVERGENCE_THRESHOLD:
+            convergence_counter += 1
+        else:
+            convergence_counter = 0  # Reset if the change is above the threshold
+
+        return convergence_counter >= CONVERGENCE_ITERATIONS
     iterations = 300000
 
     total_gains = []
@@ -349,6 +382,10 @@ if __name__ == "__main__":
             print(f'TOT_GAIN {total_gain: .3f}')     
 
         update_strategy()
+
+        if check_convergence():
+            print(f"Converged after {i} iterations.")
+            break
 
     InfosetData.printInfoSetDataTable(infosets)
 
