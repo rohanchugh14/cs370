@@ -6,7 +6,7 @@ import pickle
 
 from rlcard.utils.utils import *
 
-class CFRAgent():
+class MCCFRAgent():
     ''' Implement CFR (chance sampling) algorithm
     '''
 
