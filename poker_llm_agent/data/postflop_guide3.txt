@@ -1,0 +1,170 @@
+The flop is a critical juncture in any game of Texas Hold'em. It's the point in the hand where players gain valuable information about their hand strength and must make important decisions about whether to continue playing or fold.
+a dealer laying down the flop
+THE FLOP
+After you’ve navigated the preflop betting round, the first three community cards, called the flop, are dealt. At this point in the hand, you start to get an idea of how strong your hand is and how it could impact your opponent’s hand.
+
+Identifying which flops are good for your range and, subsequently, your opponents, enables you to make better decisions on the flop and later streets. In this guide, we’ll look at how to categorize flops, what decisions you should make based on your hand strength, and tips to help you improve your flop play.
+
+WHAT IS THE FLOP?
+The flop is the second betting round, where three cards are dealt face-up after the first betting round. These three cards will dictate your hand and the rest of the round.
+
+There are many successful pre-flop strategies, but many post-flop strategies, too. Let’s run through the various plays you should remember when betting post-flop.
+
+THE FLOP RESULTS
+Once the three cards are dealt, you must decide how to approach the round. Here are some questions you should be asking once the first cards are laid:
+
+The first question; have the cards improved your hand and put you in a position of power? Alternatively, perhaps the cards haven’t improved your hand, and the best course of action is to fold and wait for a better opportunity.
+The second question you should ask is whether there is a straight or flush draw.
+STRAIGHT DRAW:
+A straight draw is four of the five cards needed to make a straight, which is the hand that contains five cards of sequential rank but not of the same suit.
+
+FLUSH DRAW:
+This is four of the five cards needed to make a flush, which is five cards of the same suit.
+
+As soon as the flop is out, you need to understand your drawing possibilities. If you have a good chance of hitting a straight or a flush, you want to get there as cheaply as possible. So you need to consider your chances and bet accordingly. If you’re facing a hefty raise, think twice before betting again; if there’s no raise, you’re in a great position to draw to that stronger hand.
+
+If you’re on a straight or a flush draw, consider making a slight raise to stop your opponent from taking control of the betting with a marginal hand. Even if they call your raise, you’re still in a good position. Once you hit your straight or flush, you should raise again. Obviously, you need to consider the action at the table and if an opponent could have a stronger or similar hand.
+
+CATEGORIZING THE FLOP
+When you hear people talking about flops, you may hear them talking about the “board texture.” They are referring to how the communal cards on the flop interact with each other, and there are several different words we use to categorize them:
+
+Dry/Static – The cards aren’t close together in terms of rank and aren’t the same suit, meaning there aren’t many draws on the board: K♣8♠3♦️
+Wet/Dynamic – The cards are close together, and there are at least two cards of the same suit, meaning there are a lot of draws on the board: 9♠8♠J♣
+Paired – Two of the cards on the flop are of the same rank: A♣A♦️9♠
+Two-tone – Two of the cards on the flop are the same suit, but the cards aren’t necessarily close together: A♠9♠5♦️
+Monotone – All three cards are the same suit, but the cards aren’t necessarily close together: Q❤️8❤️5❤️
+Connected – The cards are close together in terms of rank but aren’t necessarily the same suits: 4♣6♦️7♠
+As you can see, some of the definitions overlap somewhat, such as “wet” and “connected.” You’ll find that most people just use “wet” and “dry” to describe flops, so as long as you know the differences between those, you’ll be fine.
+
+POST-FLOP HANDS
+Once the flop has been dealt, one of the first things we should do is look at how it impacts our hand.
+
+Our post-flop hand strength is one of the major factors in deciding what action to take. Therefore, it’s crucial that you have a good understanding of where your hand falls within these three categories:
+
+1. MADE HANDS
+The first category we’ll look at is “made hands.” In these situations, your hand has flopped a decent or significant amount of equity and is strong enough to continue against a bet from your opponent. Let’s take a closer look at the type of made hands you can have on the flop.
+
+Monster Hands – These are the hands everyone’s hoping to make on the flop. With a monster hand, you often have the nuts or close to it, and it’s unlikely that your hand will be beaten by the river. Examples of monster hands include flopping the nut flush, a full house, or quads.
+Very Strong Hands – These are hands where you feel good about your winning prospects. However, your hand is still vulnerable to some of the stronger hands out there. While there’s a good chance your hand will be best by the river, it’s not as much of a lock as the “monster hands” section. Examples of a very strong hand are a set, two pair, an overpair, or top-pair top-kicker.
+Marginal Hands – Marginal hands are arguably the lowest-value hand you can make in poker. They’re better than flopping nothing, but they’re not likely to be good by the river and are best used as bluff catchers against aggressive opponents. Examples of marginal hands include bottom pair, middle pair, and pocket pairs below top pair.
+Drawing Hands – While drawing hands are technically worse than marginal hands (marginal hands at least have a pair), they have the potential to make strong hands. You’ll often see that a strong draw, like a flush draw, has 30% equity against your opponent’s range. When you make your hand, it’s often the best hand, which is why they have expected value.
+HOW TO PLAY MADE HANDS
+As there are several different made hands that you can have, learning how to play them can be tricky. The best way to learn is to take the time to consider each important variable before making your decision.
+
+If you think through each of these and how it applies to the hand, the action you need to take should become clear. Here are the three most important things to consider when playing a made hand on the flop.
+
+The Strength of Your Hand
+The first thing you should look at is the strength of your hand. Generally, the better your hand is, the more often you should bet. This is because you want to build a pot when you have a strong hand to get as much value from your opponents as possible.
+
+However, as we’ve seen above, not all made hands are strong enough to be bet for value. Therefore, if you have one of the marginal hands, sometimes the best play is to check and keep the pot small.
+
+The Strength of Your Opponent’s Range
+The next thing to consider is the strength of your opponent’s range. It doesn’t matter how strong your hand is; if your opponent doesn’t have a hand to call you with, you won’t make any money! This is why you should always collectively consider the strength of your hand and your opponent’s range.
+
+For example, if you have a monster hand that’s almost certain to win, but your opponent has a weak range, why would you bet, knowing that they’re going to fold most of the time? Instead, a better option may be to check and hope they improve to a marginally worse hand than yours. Hell, maybe they get frisky and decide to bluff at the pot!
+
+The Playing Style of Your Opponent
+Another critical factor in deciding how to play your hand is your opponent’s playing style. Some people play in such a way that you should dramatically adjust your strategy to try and exploit them. One of the best examples of this is the “maniac” player.
+
+These players will barrel off for three streets with absolute air in almost every hand as they try and bully the table. Now, if you have a strong hand that you would often bet, the best option may be to slowplay when you’re up against one of these maniacs. By slowplaying, you allow your opponent to bluff into you, giving you three extra streets of value you may not have gotten if you bet yourself.
+
+2. DRAWING HANDS
+We’ve already discussed drawing hands; however, not all draws were created equal. Some draws are stronger and have more equity than others, so they should be played in different ways. It’s essential to understand how strong your draw is before you make your decision; otherwise, you risk overplaying your hand and making a mistake.
+
+Very Strong Draws – A very strong draw often has more than one way to improve. Think of hands like an open-ended straight flush draw; these hands have nine outs to hit the flush and another four outs to make the straight, giving you thirteen outs to improve your hand by the next card. You’ll hit these hands roughly 50% of the time by the river, giving you a high chance of making a great hand.
+Strong Draws – While not quite as good as a very strong draw, a strong draw still gives you decent equity against most of your opponent’s range. Think of hands like flush draws and open-ended straight draws. You have 8/9 outs to improve your hand, which means you’ll make your draw around ⅓ of the time by the river.
+Weak Draws – A weak draw can be one of two things: It can be a draw to a weak hand (such as the bottom end of a straight), or it can be a draw with very few outs (such as a gutshot straight draw). These hands often aren’t worth playing if there’s significant action, as it’s either unlikely you’ll make the hand, or you could make the worst hand if you do improve.
+HOW TO PLAY DRAWING HANDS
+How you play your drawing hands will depend on what kind of draw you have, your position relative to your opponent, and how strong you think your opponent’s range is. You should always consider these three factors before deciding whether to make a bet, and there’s a specific order that you should consider them. Let’s take a closer look.
+
+How Strong is Your Opponent?
+The first thing you should always consider is how strong you think your opponent’s range is. If you believe your opponent has lots of strong hands on a particular flop, you’ll want to bluff with your draws less often and try to make them as cheaply as possible. However, suppose you think your opponent is weak on a specific flop. In that case, you should bet your draws aggressively, as it’s more likely your opponent will fold, and you’ll win the pot.
+
+How Strong is Your Draw?
+The next thing to consider is how strong your draw is. The stronger the draw, the more equity you’ll have against your opponent’s range (even if they have a strong range), which means you can bet more aggressively. Bluffing aggressively on the flop is great if you’ve got a draw like an open-ended straight flush draw but is riskier if you’ve got a weak draw like a gutshot.
+
+Therefore, you should always consider how strong your draw is against your opponent’s range. You should bluff your weaker draws less frequently if your opponent has a strong range.
+
+What’s Your Position?
+The last thing you need to consider is your relative position at the table. When you’re in position, you can control the pot more effectively and keep the pot small when you want to make your draw. However, when you’re out of position, there’s always a chance your opponent will raise, so you need to be prepared for that.
+
+So, again, we should consider the other two factors before deciding. For example, suppose we’re out of position with a weak-medium draw against an opponent with a strong range. In that case, we’re better off checking rather than betting. If we bet, our opponent could raise, blowing us off our equity, but if we check, we give ourselves the option to just call their bet, allowing us to draw more cheaply.
+
+3. UNMADE HANDS
+Unmade hands are the worst of the bunch. These are hands that haven’t flopped a pair or any meaningful draw and, in essence, are absolute garbage. Think of a hand like 8❤️7❤️ on a flop of A♠K♠J♣; there’s absolutely nothing going for it. Picking the unmade hands to bluff with on the flop is an important skill.
+
+In these situations, you have two options. You can either give up, check the hand, and fold it to any aggression, or you can bluff at it.
+
+You’ll want to strike a balance between giving up and bluffing. If you bluff too often, your opponent will always call you down. If you never bluff, your opponent will never call you. Picking the unmade hands to bluff with on the flop is an important skill, and there are things that you should look for in your unmade hands that make them more attractive bluffing candidates.
+
+CONTINUATION BETTING WHEN YOU MISS THE FLOP
+Overcards
+If your unmade hand has an overcard to the flop, this makes it a decent bluffing candidate. Why? Because if you get lucky, you can make top pair on the turn or river, which sometimes gives you the best hand! When bluffing, it’s always better to give yourself a chance to make the best hand, even if it’s slim. Bluffing with the possibility of making top pair is far better than bluffing with low cards, where the best you can make is 2nd or 3rd pair.
+
+Backdoor Draws
+If you do have low cards, that doesn’t mean you should never bluff with them. Some of these low cards have “backdoor draws,” which means that if you catch running cards on the turn and river, you can make a strong hand like a straight or a flush.
+
+For example, if you have 7❤️6❤️ on a board of A❤️K♣Q♠, you have three cards to a flush. If you bluff on the flop and a heart comes on the turn, you’ve upgraded your hand to a bonafide flush draw! If you bluff again on the turn, there’s a chance that if you’re called, another heart will come on the river, giving you what’s likely to be the best hand.
+
+Knowing what hands you should or shouldn’t be bluffing with isn’t the only thing you need to know when c-betting with an unmade hand. When considering whether or not to bet your draws, you need to consider the hands your opponent can have in their range.
+
+The stronger your opponent’s range is, the less often you should bluff, as it will work less often! On the other hand, if you think your opponent’s range is particularly weak, you should up your bluffing frequency, as it’s more likely to work.
+
+Hand reading can be tough, but it’s essential for knowing what hands your opponent is likely to have in any given situation. If you want to better understand poker ranges and how they work, you should read our article on poker ranges.
+
+BETTING ON THE FLOP
+Knowing when to bet on the flop can be complicated, as there are many things you must consider before making your decision. However, knowing why you should or shouldn’t bet makes it easier to identify what you should do with your hand. Let’s look at what those reasons are.
+
+WHY BET:
+Maximize Value – When you make a bet, you decide how much money goes into the pot. When you’re value betting, having this control over the hand is vital because you want to maximize every chip you can extract from your opponent. If you check, hoping to trap, your opponent may check back, or they may bet a smaller amount than you were hoping for.
+Bluff – You’d also want to bet to bluff your opponent off a stronger hand. You can’t get your opponent to fold if you check, so if you ever want to win with a bad hand, you need to be able to bet as a bluff. Similarly to when you’re value betting, if you’re in control of the betting action, you get to decide how much it will take for your opponent to call. You can tailor your bet size to get your opponent to fold different parts of their range.
+Protection – Protection is an interesting concept in poker, as, technically, it’s a type of value bet. Still, it’s one where you hope not to get called most of the time. A protection bet aims to get your opponent to fold a hand with a good amount of equity against your hand. For example, if you have a hand like bottom pair on the flop, getting your opponent to fold two overcards is a good result, as that hand has a good chance of beating ours if we check back. However, protection bets can only be made with made hands, and there are times when our opponent will call with worse, making them a kind of value bet.
+WHY NOT TO BET:
+Pot Control – You may want to avoid betting to control the pot size. If you have a marginal made hand or a draw against an opponent with a strong range, keeping the pot small by checking is often the best play. When we’re in these marginal situations, we don’t want to inflate the size of the pot by betting. Instead, we want to realize as much of our equity as possible as cheaply as possible. The best way to do that is by checking.
+Slowplay – Another reason we may not want to bet is that we may want to bait our opponent into betting for us. While this gives up control of the betting action, it can sometimes be the most profitable play to make, as it gives us a chance to check-raise and further increase the size of the pot. However, you must be mindful of the type of opponent you’re playing against before you slowplay. Suppose you’re playing against an aggressive player. In that case, slowplaying can be a profitable play. Still, if you’re playing against a passive player, you’re better off betting yourself.
+By running your hand through each possible reason for betting or not betting, you should have a clearer idea of how your hand should be played. Check out our in-depth guide to betting for more info.
+
+THE FLOP: COMMON SITUATIONS
+Here are some situations you could find yourself in and how to play the round.
+
+1. PAIR, MIDDLE POCKET PAIR, TOP PAIR WITH LOW KICKER
+If you’re holding on to one of these combos, you should bet out if there is no action before you. If you are called, it’s worth seeing what the card shows on the turn. If you are raised, the safest play would be to fold with these cards. However, if it’s a standard raise, it’s worth considering calling with top pair. In most cases, fold any other combos.
+
+2. OVERPAIR, TWO PAIR, TOP PAIR WITH TOP KICKER
+If you have one of these hands, you’re in an excellent position, so you should raise. But you want to avoid offering your opponent correct pot odds to draw, so make a sizable bet. Remember: You want to avoid giving your opponents a chance to catch the next card. If you slowplay, your hand could become weaker.
+
+3. SET, STRAIGHT, FLUSH
+If you find yourself holding one of these hands, you’re in a fantastic position. In this situation, you want to bet out in a bid to get as much money into the pot as possible since you have a good chance of scooping a sizable pot. You could slow play here, but it’s better to go for pot size. If you have a weak flush, you should still bet to take advantage of those looking to call with on a bigger draw.
+
+4. FULL HOUSE, FOUR OF A KIND, STRAIGHT FLUSH
+If you’re holding one of these hands, then you’re surely in a winning position. However, these hands come along infrequently, so you want to take full advantage. Consider slowplaying and allow other cards to come out. You want to increase the pot size to its maximum potential. If you only take a small pot with a strong hand like this, it’s almost a waste.
+
+FLOP STRATEGY TIPS
+There’s plenty to think about when the flop comes down. First and foremost, you should always have your opponents in mind and consider what hands they could hold. This means taking note of their action on the flop and assuming your opponent has a drawing hand.
+
+You should never get attached to your good hands either; if your opponent shows a lot of strength, you must let the good hands go. Furthermore, it all comes down to reading the situation and playing smart. Don’t rely on luck.
+
+GIVE YOUR OPPONENT THE WRONG POT ODDS
+When making decisions on the flop, consider using conventional poker strategy against your opponents by giving them incorrect odds to call with a draw. For example, on wet, draw-heavy flops like J♣10♣8♠7♠8♠10❤️ etc., it’s better to use a large sizing with your strong hands, as it gives your opponents the wrong odds to call.
+
+For example, if the pot on the flop is $10, it’s perfectly fine to use full pot sizing on draw-heavy boards. If your opponent has to call $10 into a $10 pot, they’re getting immediate odds of 2-1, meaning they have to make their hand 1 in 3 times (33%) for it to be a profitable call. However, if they have a hand like a flush draw or a straight draw, they’ll only make their hand around 20% of the time.
+
+This means that if they call, they’re making a mathematical mistake, and you’re making money with your bet.
+
+ALWAYS CONSIDER YOUR OPPONENT
+After the flop comes down and you can see a five-card hand, it’s easy to get caught up in your own and not consider what your opponent has. However, deciding the best strategy for your hand cannot be done in a vacuum. Having an idea of the range of hands your opponent can have will allow you to make the best decision.
+
+For example, if your opponent will not continue against a bet, you may want to check your strong hand instead of blindly betting it for value. You also need to consider the type of opponent they are – are they tight or loose, passive or aggressive? Knowing these traits will help you better understand what hands your opponent is likely to have in any given situation.
+
+THINK ABOUT HANDS IN RANGES
+Many beginner players try to put their opponent on one single hand and then play as if their opponent has that hand. In reality, that is a very tough thing to do, as players will often play a variety of hands in the exact same way. This is why you need to consider ranges and all the hands your opponent can have, given how the hand has played out.
+
+If you think your opponent has one specific hand, but they don’t, it could lead to you making catastrophic errors in how you play your hand. However, by thinking in terms of ranges, you are more likely to make the overall right decision.
+
+DON’T BE AFRAID TO FOLD
+Sometimes in poker, you just have to let good hands go. When your opponent displays a lot of strength, you need to pay attention and continue with the very best hands you have in your range. Deceptively middling hands like TPTK or an overpair sometimes need to be folded on the flop if the board is wet. While it’s tough to do, don’t be afraid to make a big fold from time to time.
+
+SUMMARY
+How you play on the flop sets you up for the rest of the post-flop betting rounds, so it’s vital that you learn how to play this street well. When thinking about your and your opponent’s hands, think about ranges.
+
+Now that you’ve mastered flop play (of sorts), check out our other articles on betting, poker ranges, pot odds, and 3betting to round out your poker knowledge.

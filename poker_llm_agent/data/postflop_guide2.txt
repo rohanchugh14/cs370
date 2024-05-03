@@ -1,0 +1,64 @@
+There are four distinct parts to a Texas Hold'em hand: preflop, the flop, the turn, and the river. The flop is the most important of the four because it almost always defines how the hand progresses. Three of the five community cards come into play on the flop, and it is your first chance to make your best five-card poker hand.
+
+Most poker players, even those relatively new to Texas Hold'em, have the preflop round figured out. They have starting hand selection down to a tee, but many seem clueless when the dealer spreads the all-important flop. They do not know whether or not to fire a continuation bet, check-call, check-raise, or what to do if an opponent leads into them (which is known as a "donk bet"). You will not be one of those players by the time you reach the end of this article about the flop.
+
+When a Texas Hold'em hand reaches the flop, there are several factors to consider. They include, but are not limited to:
+
+The preflop betting action
+
+Your position at the table
+
+Your opponents' playing style and tendencies
+
+Players' stack sizes
+
+The texture of the flop
+
+You need to assess the preflop betting round before considering the best move on the flop. Hopefully, after reading and digesting our website's PartyPoker How to Play section, you will be the preflop aggressor because you know that raising or three-betting preflop gives you the momentum going into the hand. Do not worry if not, because we are covering that, too.
+
+Reaching the flop after raising preflop gives you a range advantage because your opponents will give you credit for having a strong hand; plus, it opens the door to making a continuation bet, a powerful tool that too many players underutilize.
+
+Most flop play in Texas Hold'em boils down to three key questions:
+
+Should I make a continuation-bet
+
+Should I check-call
+
+Should I check-raise
+
+Let us take a look at each of those flop questions.
+
+ 
+
+When to Make a Continuation Bet on the Flop
+A continuation bet is a powerful move made by the preflop aggressor. You raise preflop, an opponent calls, and then you make a bet when first to act on the flop; this is a continuation bet. Continuation bets, or c-bets, often end the hand there and then, leaving you to pick up a small pot.
+
+Although you will miss the flop approximately two out of three times, a continuation bet screams that you are either still happy with your starting hand or that hand has improved further, and you are keen to build a pot with your strong hand. It should now be evident that a c-bet is a profitable weapon for a Hold'em player.
+
+You should c-bet between 40-65% of the time you reach the flop after being the preflop aggressor. Continuation bets are made for two reasons: for value and as a bluff.
+
+C-betting for value is easy because you want to build a pot with your strong hand. It makes sense to c-bet if you raised preflop with Kc-Kh, your opponent called, and the flop fell Ks-9d-4h because you have top set and are in a great position to win the pot. You would also likely continuation bet with Kc-Kh on a Qd-Ts-6c flop because you have an overpair to the board.
+
+You should not only c-bet when you have a strong hand because c-bets work great as bluffs. For example, you raise with Kc-Qc from the button, the big blind calls and the flop falls Ac-7d-5s. Your opponent checks to you; what is your play? This scenario is prime for a c-bet because the villain has not indicated any strength, but you have. You can c-bet and represent the ace despite only having king-high right now.
+
+Your opponent will likely fold some hands that beat you, such as pocket deuces, threes, fours, and maybe sixes. They may even fold if they hit the five or seven and almost certainly let their hand go if they called you with a hand like Kx-Tx, Qx-Jx, or similar. Their folding in this spot is a great result.
+
+Opponents that fold too much to a c-bet are perfect for attacking whenever you are in a pot with them. You should lessen your bluff c-betting frequency and bet more for value against foes that are calling stations and call with any piece of the board or draws.
+
+ 
+
+When Should I Check-Call or Check Behind on the Flop?
+Sometimes, it is best to avoid making a continuation-bet and to check behind when your opponent checks to you. This is usually when your hand is super strong or ridiculously weak. For example, you raise on the button with As-Ac, the big blind calls, then checks to you on an Ad-4c-4d flop. You have flopped a full house and have the board tied up. Your opponent is highly unlikely to have an ace or a four, so will almost always fold to a c-bet. As you want to maximize the value of your top-tier hands, checking behind here and hoping your opponent either picks up a draw, improves their hand, or bluffs at the turn is a good option.
+
+Conversely, you raise with 9c-9d from the cutoff, the button and both blinds call, and the flop falls Ks-Qs-8c. The blinds check to you; what is your play? Checking behind is probably best here because there are two overcards to your pair, there are possible straight and flush draws out there, the button is yet to act, and you are facing multiple opponents. You could have the best hand right now, but so many turn cards hurt your chances of winning. Also, the button could raise with a hand like Jc-8c, and you have to fold the best hand.
+
+ 
+
+When Should I Check-Raise the Flop?
+You will sometimes find yourself on the flop out of position, having either called a raise or having raised preflop and then called a three-bet. It is not ideal, but you still have some potential moves up your sleeve.
+
+Some opponents are perfect for check-raising against. A villain that raises and re-raises preflop and then continuously makes a continuation bet is your prime target, especially if they tend to fold after someone plays back at them.
+
+Check-raising a flop that you have a strong draw on is another potential spot. Playing draws fast can be a good move because your opponent may fold there and then or may call, and the pot builds for when you do hit your draw. Furthermore, playing a draw fast disguises your hand because many players check-call when chasing a flush or straight, so they will not think you are drawing.
+
+More check-raising opportunities present themselves if you call a late position raise from the big blind. Imagine the button raising, you calling in the big blind, and the flop falling Qs-4c-3d. You check, and your opponent makes a half-pot continuation bet. You should consider a check-raise here regardless of your holding. Your opponent has a massive range of hands, but your check-raise here screams that you have flopped two pairs with 4x-3x, a set of threes or fours. Unless your opponent has aces, kings, or a strong queen, they will be in a world of pain if you check-raise them here.
